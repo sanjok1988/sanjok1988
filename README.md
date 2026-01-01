@@ -1,17 +1,28 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQHkGp3wcGtGzw/profile-displayphoto-shrink_800_800/B4DZZI7xoWHAAg-/0/1744980352309?e=1769040000&v=beta&t=4CsbMGUIVJ-oZlOZ2rRVR0LO5K776fgaPwTOeBo_q6I" alt="Sanjok Dangol" width="200px" style="border-radius:50%; border: 4px solid #007ACC;">
+  
   <h1>Hello, I'm Sanjok Dangol! 👋</h1>
   <p><h3>Senior Laravel Developer | Project Manager | Full Stack Enthusiast</h3></p>
   <p>
     Passionate about crafting robust, scalable web applications and leading technical teams to success.
     I thrive on solving complex problems, embracing new challenges, and delivering high-quality, efficient solutions.
   </p>
+
+  ## 📊 GitHub Stats
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjok1988&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6" width="48%" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjok1988&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6" width="42%" alt="Top Languages" />
+  </div>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjok1988&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=007ACC&fire=FF692B&currStreakLabel=007ACC" alt="Streak" align="center" />
+
   <p>
     <a href="https://sanjok1988.github.io/" target="_blank">🌐 Portfolio</a> •
-    <a href="mailto:sanjokdangol1988@gmail.com">📧 Email</a> •
+    <a href="mailto:sanjokdangol1@gmail.com">📧 Email</a> •
     <a href="https://www.linkedin.com/in/sanjok-dangol-a7207186/" target="_blank">🔗 LinkedIn</a> •
     <a href="https://twitter.com/DangolSanjog" target="_blank">🐦 Twitter</a> •
-    <a href="https://www.upwork.com/freelancers/~012bdcd875f56cd8c6" target="_blank">💼 Upwork</a>
+    <a href="https://www.upwork.com/freelancers/~012bdcd875f56cd8c6" target="_blank">💼 Upwork</a> •
+    <a href="https://www.youtube.com/@computingwithsanjok3402" target="_blank">📺 Coding Channel</a>
   </p>
 </div>
 
@@ -59,28 +70,35 @@ My passion lies in leveraging cutting-edge technologies to solve real-world prob
 
 ## ✨ Featured Projects
 
-A selection of impactful projects from my portfolio:
+### 🎓 Global English Campus (AI Educational Platform)
+[![Demo](https://img.shields.io/badge/Live_Demo-EDD459?style=for-the-badge&logo=vercel&logoColor=white)](https://edu.globalenglishcampus.com)
+[![Video](https://img.shields.io/badge/Project_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=hDZZ_ZpZmWU&list=PLXJcw72lA2KQZhF0ZsgNcuoJWgdff7HlF)
+Comprehensive AI-powered educational web app with **Laravel, OpenAI, AWS (SES, S3), MySQL**. OTP auth, custom AI assistants, voice-to-text.
 
-### 🎓 AI Powered Educational Application Project
-A comprehensive AI-powered educational web application developed with **Laravel, OpenAI, AWS (SES, S3), and MySQL**. Features include OTP authentication, AI assistants trained on custom datasets, and voice-to-text conversion via AWS Transcribe. I spearheaded the API development and integration of various AWS services.
-*   **Tech Stack:** Laravel, OpenAI API, AWS SES, AWS S3, MySQL, Nginx
+### ⏱️ Workzone1 (Time Tracker & PM Tool)
+[![Demo](https://img.shields.io/badge/Live_Demo-EDD459?style=for-the-badge&logo=vercel&logoColor=white)](https://workzone1.com)
+Full-stack app: **NextJS/TS/Tailwind** frontend, **NestJS/MySQL/TypeORM** backend. AWS Amplify/EC2 deploy. Google Maps integration.
 
-### ⏱️ Workzone1 [Time Tracker & Project Management]
-Designed and developed a full-stack time tracker and project management web application for a travel agency. The UI was built with **NextJS, TypeScript, Tailwind CSS, and Material UI**, while the robust API utilized **NestJS, TypeScript, MySQL, and TypeORM**. Deployed securely on **AWS Amplify and EC2**.
-*   **Tech Stack:** NextJS, NestJS, TypeScript, Tailwind CSS, Material UI, Google Maps, MySQL, TypeORM, AWS Amplify, AWS EC2
+### 🏠 DATABLOCK (AI Real Estate)
+[![Demo](https://img.shields.io/badge/Live_Demo-EDD459?style=for-the-badge&logo=vercel&logoColor=white)](https://datablockai.com)
+AI image processing with **Replicate/OpenAI**. **Express/TS/Mongo/Stripe** backend, **NextJS/Tailwind** UI. Role-based auth, subscriptions.
 
-### 🏠 AI Powered DATABLOCK
-An innovative AI-based real estate application integrating **Replicate API and OpenAI** for advanced image processing and AI assistance. The backend was developed using **Express, TypeScript, OpenAI, Replicate, Stripe, and Mongoose (MongoDB)**. The modern UI was crafted with **NextJS, Formik, and TailwindCSS**, featuring role-based authentication and subscription plans.
-*   **Tech Stack:** React, NextJS, Express, OpenAI API, Replicate API, Stripe, MongoDB, JWT
+### 📰 NuwaKot News Portal
+[![Demo](https://img.shields.io/badge/Live_Demo-EDD459?style=for-the-badge&logo=vercel&logoColor=white)](https://nuwakotnews.com)
+Modern news platform built with **Laravel/MySQL**. Scalable CMS with admin dashboard.
+
+### 🌐 Nepal Dristi
+[![Demo](https://img.shields.io/badge/Live_Demo-EDD459?style=for-the-badge&logo=vercel&logoColor=white)](https://nepaldristi.com)
+Dynamic web portal with **Laravel** backend, responsive design, and content management features.
 
 ---
 
 ## 💼 Experience
 
 *   **Software Engineer I** | Global English Campus (Jan 2022 - Present)
-    *   *Currently leading projects and developing scalable solutions.*
+    *   Leading projects: [Live Demo](https://edu.globalenglishcampus.com) | [Project Video](https://www.youtube.com/watch?v=hDZZ_ZpZmWU&list=PLXJcw72lA2KQZhF0ZsgNcuoJWgdff7HlF)
 *   **FullStack Developer** | Workzone1 (Jun 2021 - Jan 2022)
-*   **Self Employed** | Code and build something everyday (Jan 2018 - Present)
+*   **Self Employed** | Code daily (Jan 2018 - Present) | [Coding Channel](https://www.youtube.com/@computingwithsanjok3402)
 
 ---
 
@@ -93,20 +111,20 @@ An innovative AI-based real estate application integrating **Replicate API and O
 
 ## 💬 Get In Touch
 
-I'm always excited to connect with fellow developers, explore new opportunities, or discuss potential collaborations. Feel free to reach out!
+Open to collaborations, freelance, or full-time roles! 🚀
 
-*   📧 **Email:** [sanjokdangol1@gmail.com](mailto:sanjokdangol1988@gmail.com)
+*   📧 **Email:** [sanjokdangol1@gmail.com](mailto:sanjokdangol1@gmail.com)
 *   📍 **Location:** Kathmandu, Nepal
-*   🤝 **Upwork:** [Connect on Upwork](https://www.upwork.com/freelancers/~012bdcd875f56cd8c6)
+*   🤝 **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~012bdcd875f56cd8c6)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/sanjok1988)
+
+<!-- Wakatime: Setup at wakatime.com and add: -->
+<!-- ![WakaTime](https://wakatime.com/share/public/somekey.svg) -->
 
 ---
 
 <div align="center">
-  <p>Crafted with ❤️ by AI</p>
-  <a href="https://github.com/sanjok1988?tab=repositories" target="_blank">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sanjok1988?style=social" />
-  </a>
-  <a href="https://github.com/sanjok1988?tab=followers" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sanjok1988?style=social" />
-  </a>
+  <p>🔥 Dynamic with GitHub Actions | 💻 Wakatime Ready | Topics: fullstack-developer, laravel-developer, project-manager</p>
+  <img src="https://komarev.com/ghpvc/?username=sanjok1988&style=flat-square&color=blue" alt="Visitors" />
 </div>
