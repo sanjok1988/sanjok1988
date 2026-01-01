@@ -14,33 +14,31 @@
 <p align="center">
   <em>Passionate about crafting robust, scalable solutions that make an impact</em>
 </p>
-  <h1>Hello, I'm Sanjok Dangol! 👋</h1>
-  <p><h3>Senior Laravel Developer | Project Manager | Full Stack Enthusiast</h3></p>
-  <p>
-    Passionate about crafting robust, scalable web applications and leading technical teams to success.
-    I thrive on solving complex problems, embracing new challenges, and delivering high-quality, efficient solutions.
-  </p>
 
-  ## 📊 GitHub Analytics
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://sanjok1988.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sanjokdangol1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanjok-dangol-a7207186/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/DangolSanjog" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~012bdcd875f56cd8c6" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="https://www.youtube.com/@computingwithsanjok3402" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjok1988&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=sanjok1988&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjok1988&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-  <p>
-    <a href="https://sanjok1988.github.io/" target="_blank">🌐 Portfolio</a> •
-    <a href="mailto:sanjokdangol1@gmail.com">📧 Email</a> •
-    <a href="https://www.linkedin.com/in/sanjok-dangol-a7207186/" target="_blank">🔗 LinkedIn</a> •
-    <a href="https://twitter.com/DangolSanjog" target="_blank">🐦 Twitter</a> •
-    <a href="https://www.upwork.com/freelancers/~012bdcd875f56cd8c6" target="_blank">💼 Upwork</a> •
-    <a href="https://www.youtube.com/@computingwithsanjok3402" target="_blank">📺 Coding Channel</a>
-  </p>
 </div>
 
 ---
@@ -61,15 +59,10 @@ My passion lies in leveraging cutting-edge technologies to solve real-world prob
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -161,7 +154,60 @@ Committed to Quality | Collaborative | Clear Communicator | Professional
 *   **BSc (Hons) Computing** | UCSI University (2018 - 2020)
 
 ---
+## 🌟 Recent Highlights
 
+<table>
+<tr>
+<td style="background: #f0f4ff; border-left: 4px solid #667eea; padding: 15px; border-radius: 5px;">
+
+**✅ Launched AI Platform**
+
+Global English Campus reached 10K+ users in 6 months
+
+</td>
+<td style="background: #fff0f6; border-left: 4px solid #f5576c; padding: 15px; border-radius: 5px;">
+
+**✅ Performance Boost**
+
+Reduced response time by 40% through optimization
+
+</td>
+</tr>
+<tr>
+<td style="background: #f0fbff; border-left: 4px solid #00f2fe; padding: 15px; border-radius: 5px;">
+
+**✅ User Engagement**
+
+Implemented AI features improving engagement by 60%
+
+</td>
+<td style="background: #f0fff4; border-left: 4px solid #38f9d7; padding: 15px; border-radius: 5px;">
+
+**✅ Team Management**
+
+Successfully managed team of 25+ developers
+
+</td>
+</tr>
+<tr>
+<td style="background: #fffaf0; border-left: 4px solid #fee140; padding: 15px; border-radius: 5px;">
+
+**✅ Uptime Excellence**
+
+Achieved 99.9% uptime over 12 months
+
+</td>
+<td style="background: #fef0ff; border-left: 4px solid #fa709a; padding: 15px; border-radius: 5px;">
+
+**✅ Freelance Success**
+
+100% client satisfaction across 50+ projects
+
+</td>
+</tr>
+</table>
+
+---
 ## 🤝 Let's Collaborate!
 
 <div align="center">
