@@ -1,6 +1,19 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHkGp3wcGtGzw/profile-displayphoto-shrink_800_800/B4DZZI7xoWHAAg-/0/1744980352309?e=1769040000&v=beta&t=4CsbMGUIVJ-oZlOZ2rRVR0LO5K776fgaPwTOeBo_q6I" alt="Sanjok Dangol" width="200px" style="border-radius:50%; border: 4px solid #007ACC;">
   
+<!-- Hero Section with Animated Typing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjok%20Dangol&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Laravel%20Developer%20%7C%20Project%20Manager&descSize=16&descAlignY=51" />
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHkGp3wcGtGzw/profile-displayphoto-shrink_800_800/B4DZZI7xoWHAAg-/0/1744980352309?e=1769040000&v=beta&t=4CsbMGUIVJ-oZlOZ2rRVR0LO5K776fgaPwTOeBo_q6I" alt="Sanjok Dangol" width="180" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Scalable+Web+Applications;Leading+Technical+Teams+to+Success;Solving+Complex+Problems+Daily;Backend+Architecture+Expert" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Passionate about crafting robust, scalable solutions that make an impact</em>
+</p>
   <h1>Hello, I'm Sanjok Dangol! 👋</h1>
   <p><h3>Senior Laravel Developer | Project Manager | Full Stack Enthusiast</h3></p>
   <p>
@@ -8,13 +21,17 @@
     I thrive on solving complex problems, embracing new challenges, and delivering high-quality, efficient solutions.
   </p>
 
-  ## 📊 GitHub Stats
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanjok1988&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6" width="48%" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjok1988&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F3F4F6" width="42%" alt="Top Languages" />
-  </div>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjok1988&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&ring=007ACC&fire=FF692B&currStreakLabel=007ACC" alt="Streak" align="center" />
+  ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjok1988&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjok1988&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
 
   <p>
     <a href="https://sanjok1988.github.io/" target="_blank">🌐 Portfolio</a> •
@@ -97,8 +114,44 @@ Dynamic web portal with **Laravel** backend, responsive design, and content mana
 
 *   **Software Engineer I** | Global English Campus (Jan 2022 - Present)
     *   Leading projects: [Live Demo](https://edu.globalenglishcampus.com) | [Project Video](https://www.youtube.com/watch?v=hDZZ_ZpZmWU&list=PLXJcw72lA2KQZhF0ZsgNcuoJWgdff7HlF)
-*   **FullStack Developer** | Workzone1 (Jun 2021 - Jan 2022)
+*   **Project Manager** | Workzone1 (Jun 2021 - Jan 2022) | Letitu (Sep 2025 - Present)
 *   **Self Employed** | Code daily (Jan 2018 - Present) | [Coding Channel](https://www.youtube.com/@computingwithsanjok3402)
+
+---
+
+
+## 📈 Key Metrics & Achievements
+
+<div align="center">
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| **Total Projects** | 50+ | ✅ Active |
+| **Lines of Code** | 100K+ | ✅ Maintained |
+| **GitHub Followers** | Growing Community | 📈 Increasing |
+| **Years of Experience** | 6+ | ✅ Verified |
+| **Projects Delivered** | 100% Success Rate | ✅ Perfect Record |
+| **Average Response Time** | <4 hours | ⚡ Quick |
+
+</div>
+
+## 💬 Client Testimonials
+
+### Upwork Project: Laravel, Vue.js, MySQL Expert for LMS Development
+**Dec 21, 2022 - Feb 10, 2023 | $290.00 Earned | Fixed Price**
+
+**Client's Review**
+⭐⭐⭐⭐⭐ (5.0 out of 5)
+
+> "Sanjok is a highly skilled and expert developer. He is very cooperative, humble, and has very good communication with the client. I really like him as a professional. He is our first choice for all our future development work."
+
+**Strengths Recognized:**
+Committed to Quality | Collaborative | Clear Communicator | Professional
+
+**My Review of the Client**
+⭐⭐⭐⭐⭐ (5.0 out of 5)
+
+> "It was really fun working on this project with Gaurav sir! It is very easy to work with him, which makes the project that much more enjoyable. I would be pleased to work with him again in the future."
 
 ---
 
@@ -109,22 +162,43 @@ Dynamic web portal with **Laravel** backend, responsive design, and content mana
 
 ---
 
-## 💬 Get In Touch
+## 🤝 Let's Collaborate!
 
-Open to collaborations, freelance, or full-time roles! 🚀
+<div align="center">
 
-*   📧 **Email:** [sanjokdangol1@gmail.com](mailto:sanjokdangol1@gmail.com)
-*   📍 **Location:** Kathmandu, Nepal
-*   🤝 **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~012bdcd875f56cd8c6)
+I'm always excited about:
+- 💡 Innovative project ideas
+- 🚀 Challenging technical problems
+- 👥 Collaborating with talented teams
+- 📚 Knowledge sharing & learning
+- 🎯 Building impactful products
+- 🌍 Open-source contributions
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/sanjok1988)
+**Feel free to reach out for any collaboration opportunities!**
 
-<!-- Wakatime: Setup at wakatime.com and add: -->
-<!-- ![WakaTime](https://wakatime.com/share/public/somekey.svg) -->
+</div>
 
 ---
 
 <div align="center">
-  <p>🔥 Dynamic with GitHub Actions | 💻 Wakatime Ready | Topics: fullstack-developer, laravel-developer, project-manager</p>
-  <img src="https://komarev.com/ghpvc/?username=sanjok1988&style=flat-square&color=blue" alt="Visitors" />
-</div>
+
+## ⚡ Final Words
+
+<br>
+
+```
+While True:
+    Code() ☕
+    Learn() 📚
+    Innovate() 🚀
+    Help() 🤝
+    Repeat() 🔄
+```
+
+<br>
+
+### 🌟 Made with ❤️ and lots of ☕
+
+**Active Development | Open for Opportunities | Always Learning | Community Driven**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
