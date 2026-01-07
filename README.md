@@ -219,6 +219,17 @@ Achieved 99.9% uptime over 12 months
 </table>
 
 ---
+## 🚀 Software Development Team Management – Core Laws That I follow
+
+| # | Principle | Meaning |
+|---|----------|---------|
+| 1️⃣ | 🎯 Clear Requirements | Build the right thing before building it right. |
+| 2️⃣ | 💬 Strong Communication | Clear communication beats tools and processes. |
+| 3️⃣ | 👥 People First | Trust and empower people over rigid processes. |
+| 4️⃣ | ⚡ Small Tasks & Fast Feedback | Smaller tasks reduce risk and improve quality. |
+| 5️⃣ | 🛠 Leadership as Support | Leaders unblock teams, not micromanage them. |
+
+---
 ## 🤝 Let's Collaborate!
 
 <div align="center">
